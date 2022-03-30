@@ -42,7 +42,7 @@ To clone an issue:
 .  Open the issue that you want to clone.
 .  Select ··· *> Clone*.
 
-image::clone_action.png[Sunset]
+image::clone_action.png[Clone issue]
 
 .  In the *Summary* box, enter a short description for your new issue.
 .  Select any additional information that you want to copy across.
