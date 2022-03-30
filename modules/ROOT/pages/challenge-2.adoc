@@ -13,4 +13,21 @@ Your audience is someone technical, but new to link:https://en.wikipedia.org/wik
 
 == Answer
 
-// your answer goes here
+== About merge requests
+
+A merge request (MR) is a request to check in, or merge, a specific set of changes from one code branch into another. Merge requests allow your team to control which changes are included in each product version.
+
+Before creating an MR, you typically work in a separate feature branch, or copy of your code set, until you're ready to submit your changes. You  can then:
+
+* Push your updates to the remote code repository for your team.
+* Create an MR to notify your team that there are changes ready for merging.
+
+The MR lets your team view and discuss your code changes, line by line, to suggest improvements and to stop any poorly written code from being merged in.
+
+This way of working has several advantages:
+
+* *Parallel working* - Team members can write their code in separate feature branches to avoid overwriting each other's work.
+* *Code quality* - Your team can make sure that only reviewed and approved code is introduced to the main codebase.
+* *Supports Agile development* - Only completed features are merged into a release branch ready for shipping.
+
+

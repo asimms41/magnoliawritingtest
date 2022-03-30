@@ -22,6 +22,29 @@ Some ideas to get you started:
 
 TIP: Keep the task concise. There's no need to over-complicate the instructions.
 
-== Answer
+== Answer:
 
-// your answer goes here
+Instructions for cloning a JIRA issue
+
+== Clone an issue
+
+Sometimes it saves time to clone, or duplicate, an issue instead of starting from scratch.
+
+Cloning automatically copies across certain information from the original issue to a new one, including the *Summary*, *Description*, and other details. You can also choose to copy across additional information, such as attachments, sprint values, and links.
+
+[NOTE]
+====
+A cloned issue has a new key, e.g. DOC-2678, which means that you can update it without affecting the original issue.
+====
+
+To clone an issue:
+
+.  Open the issue that you want to clone.
+.  Select ··· *> Clone*.
+
+image::clone_action.png[Sunset]
+
+.  In the *Summary* box, enter a short description for your new issue.
+.  Select any additional information that you want to copy across.
+.  Select *Clone*. A notification appears with a link to your new issue.
+
